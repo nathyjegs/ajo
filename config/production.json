@@ -1,0 +1,6 @@
+{
+  "name": "Ajo - Production",
+  "mail": {
+    "host": "prod-mail-server"
+  }
+}
